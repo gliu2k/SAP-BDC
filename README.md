@@ -56,3 +56,4 @@ SAP BDC supports different types of storage depending on the workload.
 - Large-Scale Data Analytics
 - Databricks ML/AI
 - SAP Joule AI Platform
+- Seamless Planning (Integrate SAC and Datasphere)
