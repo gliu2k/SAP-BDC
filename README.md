@@ -18,15 +18,16 @@ The main goal of SAP BDC is to create a unified business data foundation where d
 
 ## Key Components
 ### 1. Data Products
-1 A Data Product is a reusable, governed collection of business data and related artifacts.
+
+A Data Product is a reusable, governed collection of business data and related artifacts.
 
 ![alt text](/images/bdc_dataproducts_1.png)
 
 SAP deliver standard SAP Data Products based on business domains and applications. They contain IL/HL/SAC artifacts which are conceptually similar to traditional SAP BW Business Content.
 
-Customers can also create their own custom Data Products.
-
 ![alt text](/images/bdc_dataproducts_2.png)
+
+Customers can also create their own custom Data Products.
 
 ### 2. SAP BDC Cockpit and Data Sharing
 
@@ -44,9 +45,9 @@ Zero-copy / Delta Sharing with other cloud platforms
 
 SAP BDC supports different types of storage depending on the workload.
 
-- In-memory storage: High-performance transactional and analytical processing
-- HANA Datalake Storage: Larger datasets and persistence
-- Storage Objects: HAHA HDFL file-based storage for large historical datasets (We can create space and virtual table on the file in CSV or Parquet format to share with other spaces)
+- **In-memory storage:** High-performance transactional and analytical processing
+- **HANA Datalake Storage:** Larger datasets and persistence
+- **Storage Objects:** HAHA HDFS file-based storage for large historical datasets. We can create space and virtual table on the file in CSV or Parquet format to share with other spaces or applications via data products
 
 ![alt text](/images/bdc_objectstore.png)
 
@@ -55,5 +56,3 @@ SAP BDC supports different types of storage depending on the workload.
 - Large-Scale Data Analytics
 - Databricks ML/AI
 - SAP Joule AI Platform
-
-
