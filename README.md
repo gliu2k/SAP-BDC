@@ -30,13 +30,13 @@ Customers can also create their own custom Data Products.
 
 ### 2. SAP BDC Cockpit and Data Sharing
 
-![alt text](/images/bdc_cockpit.png)
-
 The SAP BDC Cockpit provides centralized capabilities for managing and sharing data across SAP BDC components. 
 
-![alt text](/images/bdc_datasharing1.png)
+![alt text](/images/bdc_cockpit.png)
 
 Zero-copy / Delta Sharing with other cloud platforms
+
+![alt text](/images/bdc_datasharing1.png)
 
 ![alt text](/images/bdc_datasharing2.png)
 
