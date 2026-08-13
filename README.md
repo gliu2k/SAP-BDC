@@ -54,6 +54,7 @@ SAP BDC supports different types of storage depending on the workload.
 ## Why Should You Consider SAP BDC?
 
 - Large-Scale Data Analytics
+- Sharing Data
 - Databricks ML/AI
 - SAP Joule AI Platform
 - Seamless Planning (Integrate SAC and Datasphere)
