@@ -35,7 +35,7 @@ The SAP BDC Cockpit provides centralized capabilities for managing and sharing d
 
 ![alt text](/images/bdc_cockpit.png)
 
-Zero-copy / Delta Sharing with other cloud platforms
+Zero-copy / Delta Sharing among different products e.g. Datasphere <=> SAP Databricks; Datasphere <=> Big Query
 
 ![alt text](/images/bdc_datasharing1.png)
 
