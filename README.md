@@ -1,5 +1,5 @@
 # SAP-BDC
-Introduction to SAP Business Data Cloud (SAP BDC)
+Introduction to SAP Business Data Cloud (SAP BDC) after SAP Training and Self-Exploration
 
 ## What Is SAP BDC?
 
